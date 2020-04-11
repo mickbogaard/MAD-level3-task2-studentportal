@@ -1,0 +1,2 @@
+rootProject.name='MAD level 3 task 2 studentportal'
+include ':app'
